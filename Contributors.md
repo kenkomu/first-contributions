@@ -12,6 +12,7 @@
 - [Dam Gyu Yang]
 - [Mahir Ahammed](https://github.com/MahirAhammed)
 - [ytian]
+- [kenkomu](https://github.com/kenkomu)
 - [Pritam Sapkota](https://github.com/pritamsap)
 - [Geronimo Costa Peuser] (https://github.com/GeronimoCostaPeuser)
 - [Meseret Alemnew](https://github.com/meseret-ale)
